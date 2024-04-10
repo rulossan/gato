@@ -1,0 +1,40 @@
+.uno{
+    text-align: center;
+    color: aqua;
+    background: blueviolet;
+    font-size: 2rem;
+    border-style: double;
+    width:50% ;
+    height:50% ;
+
+    }
+.dos{
+    background: aquamarine;
+    color: rgb(197, 197, 97);
+    width:50% ;
+    height:50%  ;
+}
+.tres{
+    background: burlywood;
+    color: brown;
+    width:50% ;
+    height:50%  ;
+    
+
+}
+.cuatro{
+background: darkseagreen;
+color: darkblue;
+width:50% ;
+height:50%  ;
+} 
+.cinco{
+    background: cornflowerblue;
+    color: gold;
+    width:50% ;
+    height:50%  ;
+}
+body{
+    max-width: 1024px;
+    max-height: 512px;
+}
